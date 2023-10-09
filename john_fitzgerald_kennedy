@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>John Fitzgerald Kennedy</title>
+</head>
+<body>
+    <header>
+        <h1>John Fitzgerald Kennedy</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <!-- Add links to other presidents' pages here -->
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <h2>President Profile</h2>
+        <img src="johnfitzgeraldkennedy.jpg" alt="John Fitzgerald Kennedy">
+        <p>John F. Kennedy was the 35th President of the United States (1961-1963), the youngest man elected to the office. 
+            On November 22, 1963, when he was hardly past his first thousand days in office, JFK was assassinated in Dallas, Texas, becoming also the youngest President to die in office when he was assasinated in Dallas, Texas, in 1963.
+            President Kennedy presided over Camelot, and was followed by Lyndon B. Johnson.</p>
+        
+    </main>
+    <footer>
+        <p>&copy; 2023 Presidents of the US</p>
+    </footer>
+</body>
+</html>
